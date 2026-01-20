@@ -1,4 +1,3 @@
-[Northwind_readme.md](https://github.com/user-attachments/files/24743033/Northwind_readme.md)
 #  Northwind Traders Sales Dashboard
 
 An interactive Excel dashboard analyzing sales performance, customer behavior, and product trends for Northwind Traders.
